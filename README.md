@@ -74,9 +74,7 @@ This code is a component of a larger academic project:
 
 [Consider adding a license here, e.g., MIT, Apache 2.0, etc.]
 
-## Contact
 
-For any inquiries, please refer to the project team members listed above.
 
 
 
